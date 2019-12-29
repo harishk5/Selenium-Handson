@@ -3,3 +3,4 @@ Feature: Launch a light weight website and quit
     Given : Browser is launched
     When : URL is entered
     Then : Site should be launched
+    Then : Edit from Github
