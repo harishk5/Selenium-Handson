@@ -4,3 +4,4 @@ Feature: Launch a light weight website and quit
     When : URL is entered
     Then : Site should be launched
     Then : Edit from Github
+    Then : another edit from IntelliJ
