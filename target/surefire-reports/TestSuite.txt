@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 4.92 sec <<< FAILURE!
+LaunchSite(TestClass)  Time elapsed: 0.013 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at TestClass.LaunchSite(TestClass.java:26)
+
+killDriver(TestClass)  Time elapsed: 0.017 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at TestClass.killDriver(TestClass.java:35)
+
